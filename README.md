@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a5c,100:0d2137&height=200&section=header&text=Trinity%20CoC&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=abhiiiijain%20is%20the%20developer&descSize=16&descAlignY=58&descColor=7ec8ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a5c,100:0d2137&height=200&section=header&text=Trinity%20CoC&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Clash%20of%20Clans%20tools%20%7C%20developed%20by%20abhiiiijain&descSize=16&descAlignY=58&descColor=7ec8ff&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7EC8FF&center=true&vCenter=true&width=650&lines=Secondary+GitHub+account;Projects+live+on+%40abhiiiijain;GFL+%7C+CoC+community+tools" alt="Typing SVG" />
@@ -23,31 +23,7 @@ This is a **secondary** GitHub account for Clash of Clans–related work.
 
 **Main profile & all project ownership:** [@abhiiiijain](https://github.com/abhiiiijain)
 
-```javascript
-const trinitycoc = {
-  type: "secondary account",
-  person: "Abhinandan Jain",
-  main: "https://github.com/abhiiiijain",
-  portfolio: "https://abhiiiijain.com",
-  note: "Repos owned under @abhiiiijain — not this account"
-};
-```
-
 <a href="https://github.com/abhiiiijain"><img src="https://img.shields.io/badge/Go_to_main_profile-abhiiiijain-FF6B00?style=for-the-badge&logo=github&logoColor=white" /></a>
-
----
-
-## 🚀 Projects (owned by [@abhiiiijain](https://github.com/abhiiiijain))
-
-Work started or contributed from this account lives on the main profile:
-
-| Project | Owner | Links |
-| --- | --- | --- |
-| **Global Farming League** | [@abhiiiijain](https://github.com/abhiiiijain) | [Live](https://gfl.abhiiiijain.com/) · [Repo](https://github.com/abhiiiijain/GFL) |
-| **Ikyati** | [@abhiiiijain](https://github.com/abhiiiijain) | [Live](https://ikyati.abhiiiijain.com/) · [Repo](https://github.com/abhiiiijain/Ikyati) |
-| **Arkitektur** | [@abhiiiijain](https://github.com/abhiiiijain) | [Repo](https://github.com/abhiiiijain/Arkitektur) |
-
-Full stack, portfolio, and hire links → **[github.com/abhiiiijain](https://github.com/abhiiiijain)**
 
 ---
 
