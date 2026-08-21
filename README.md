@@ -3,12 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a5c,100:0d2137&height=200&section=header&text=Trinity%20CoC&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Clash%20of%20Clans%20tools%20%7C%20developed%20by%20abhiiiijain&descSize=16&descAlignY=58&descColor=7ec8ff&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7EC8FF&center=true&vCenter=true&width=650&lines=Secondary+GitHub+account;Projects+live+on+%40abhiiiijain;GFL+%7C+CoC+community+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7EC8FF&center=true&vCenter=true&width=650&lines=Clash+of+Clans+community+tools;Developed+by+%40abhiiiijain;See+main+profile+for+full+work" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://github.com/abhiiiijain"><img src="https://img.shields.io/badge/Main_profile-abhiiiijain-FF6B00?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/abhiiiijain"><img src="https://img.shields.io/badge/Developer-abhiiiijain-FF6B00?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://abhiiiijain.com/"><img src="https://img.shields.io/badge/Portfolio-abhiiiijain.com-1a3a5c?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:abhinandanbansal123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=trinitycoc&label=Profile+Views&color=1a3a5c&style=for-the-badge" />
@@ -17,24 +17,11 @@
 
 ---
 
-## 👋 Who is this?
+## 👋 About
 
-This is a **secondary** GitHub account for Clash of Clans–related work.
+Secondary account used for Clash of Clans–related work.
 
-**Main profile & all project ownership:** [@abhiiiijain](https://github.com/abhiiiijain)
-
-<a href="https://github.com/abhiiiijain"><img src="https://img.shields.io/badge/Go_to_main_profile-abhiiiijain-FF6B00?style=for-the-badge&logo=github&logoColor=white" /></a>
-
----
-
-## 🛠️ Stack (same as main)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Developer:** [@abhiiiijain](https://github.com/abhiiiijain) · [abhiiiijain.com](https://abhiiiijain.com/)
 
 ---
 
@@ -46,6 +33,10 @@ This is a **secondary** GitHub account for Clash of Clans–related work.
 
 <br/><br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=trinitycoc&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7EC8FF&icon_color=7EC8FF&text_color=c9d1d9" alt="GitHub stats" />
+
+<br/><br/>
+
 <img src="https://raw.githubusercontent.com/trinitycoc/trinitycoc/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution graph" />
 
 </div>
@@ -53,8 +44,6 @@ This is a **secondary** GitHub account for Clash of Clans–related work.
 ---
 
 <div align="center">
-
-**Looking for the developer?** → [@abhiiiijain](https://github.com/abhiiiijain) · [abhiiiijain.com](https://abhiiiijain.com/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a5c,100:0d2137&height=100&section=footer" />
 
