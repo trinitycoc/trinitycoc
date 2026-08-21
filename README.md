@@ -33,7 +33,7 @@ Secondary account used for Clash of Clans–related work.
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=trinitycoc&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7EC8FF&icon_color=7EC8FF&text_color=c9d1d9" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=trinitycoc&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7EC8FF&icon_color=7EC8FF&text_color=c9d1d9" alt="GitHub stats" />
 
 <br/><br/>
 
