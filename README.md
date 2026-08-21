@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a5c,100:0d2137&height=200&section=header&text=Trinity%20CoC&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Clash%20of%20Clans%20tools%20%7C%20same%20dev%20as%20abhiiiijain&descSize=16&descAlignY=58&descColor=7ec8ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a5c,100:0d2137&height=200&section=header&text=Trinity%20CoC&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=abhiiiijain%20is%20the%20developer&descSize=16&descAlignY=58&descColor=7ec8ff&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7EC8FF&center=true&vCenter=true&width=650&lines=Secondary+GitHub+account;Projects+live+on+%40abhiiiijain;GFL+%7C+CoC+community+tools" alt="Typing SVG" />
